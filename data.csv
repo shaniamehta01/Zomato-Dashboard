@@ -1,0 +1,11 @@
+user_id,order_count,last_order_days,avg_order_value,total_orders,city
+1,5,2,250,10,Delhi
+2,1,20,150,3,Mumbai
+3,10,1,400,25,Bangalore
+4,2,15,200,5,Delhi
+5,8,3,350,20,Mumbai
+6,0,30,100,1,Delhi
+7,6,5,300,15,Bangalore
+8,3,12,220,8,Mumbai
+9,9,1,450,30,Delhi
+10,1,25,120,2,Bangalore
